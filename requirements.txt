@@ -1,5 +1,5 @@
 asgiref==3.4.1
-beautifulsoup4 @ file:///tmp/build/80754af9/beautifulsoup4_1631874778482/work
+beautifulsoup4
 brotlipy==0.7.0
 bs4==0.0.1
 certifi==2021.5.30
