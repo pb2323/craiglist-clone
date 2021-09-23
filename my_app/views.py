@@ -5,7 +5,7 @@ import requests
 
 # Create your views here.
 def home(request):
-    return  render(request, 'base.html')
+    return render(request, 'base.html')
 
 
 def new_search(request):
